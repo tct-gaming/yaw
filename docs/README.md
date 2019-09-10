@@ -1,5 +1,5 @@
-# Headline
+# TCT Warframe Player Guide
 
-> An awesome project.
+> To learn how to edit check the Wiki under "Misc"
 
-So dope tho
+![](https://i1.wp.com/tctgaming.com/wp-content/uploads/2018/03/TCTwoooooo.png)
