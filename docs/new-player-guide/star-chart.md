@@ -1,10 +1,3 @@
-![](test.png)
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
 
 **EDITOR'S NOTE**: Everything I say here is applicable to outside of the clan as well.
 
@@ -79,45 +72,3 @@ While vets are often in the derelict you'll want to be able to help. Being able 
 
 # So finish the damned star chart
 People will only help those that help themselves in a mutually benefical manner. We don't want you to play solo but we also don't want to taxi you through everything. It's also so slow asking for a taxi for everything, don't you think?
-
-
-
-```js
-// Pure functions to view and set which can be used with any lens:
-const view = (lens, store) => lens.view(store);
-const set = (lens, value, store) => lens.set(value, store);
-
-// A function which takes a prop, and returns naive
-// lens accessors for that prop.
-const lensProp = prop => ({
-  view: store => store[prop],
-
-  // This is very naive, because it only works for objects:
-  set: (value, store) => ({
-    ...store,
-    [prop]: value
-  })
-});
-
-// An example store object. An object you access with a lens
-// is often called the "store" object:
-const fooStore = {
-  a: 'foo',
-  b: 'bar'
-};
-
-const aLens = lensProp('a');
-const bLens = lensProp('b');
-
-// Destructure the `a` and `b` props from the lens using
-// the `view()` function.
-const a = view(aLens, fooStore);
-const b = view(bLens, fooStore);
-console.log(a, b); // 'foo' 'bar'
-
-// Set a value into our store using the `aLens`:
-const bazStore = set(aLens, 'baz', fooStore);
-
-// View the newly set value.
-console.log(view(aLens, bazStore) ); // 'baz'
-```
