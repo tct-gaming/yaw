@@ -16,12 +16,11 @@
   * []()
 
 * Guide
-  * []()
-  * []()
+  * Nothing yet
 
 * Farming
-  * [How to](farming/)
-  * [Best Practices](farming/)
+  * [How to](farming/how-to.md)
+  * [Best Practices](farming/best-practices.md)
 
 * Builds
   * [Primary Weapons](builds/primary-weapons.md)
@@ -33,7 +32,7 @@
   * [Frames](builds/frames.md)
 
 * Misc
-  * [Misc](todo.md)
-  * [How to edit](todo.md)
-  * [About github.com](todo.md)
-  * [Best practices](todo.md)
+  * [Best Practices](misc/best-practices.md)
+  * [About Github](misc/github.md)
+  * [How to edit](misc/how-to-edit.md)
+  * [Sundries](misc/misc.md)

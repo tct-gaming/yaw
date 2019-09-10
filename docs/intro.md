@@ -1,3 +1,4 @@
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/68dd13f9-eded-49fd-bfd7-128caecf2dcf/dauev8h-6da93421-d709-4547-9e0c-b11508a518a6.jpg/v1/fill/w_1024,h_602,q_70,strp/warframe_saryn_prime_by_xiaobotong_dauev8h-fullview.jpg)
 # Why does this wiki exist?
 We need a wiki to put our cumulative knowledge of Warframe not only for the new players but also for ourselves.
 
