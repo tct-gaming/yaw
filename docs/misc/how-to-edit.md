@@ -7,7 +7,8 @@ To do any of this you need a github.com account so [register here](https://githu
 ## Fork
 If you are or want to be a tech person you should learn about `git` but since most of you aren't then understand that you want to fork. We get a better history of what was changed plus changes don't just "show up". It's a way to keep control of the content.
 
-## Working locally
+## Where to add content
+### Locally
 * Install node
 * Install a terminal
 * Run `npm i docsify-cli -g` in your terminal
@@ -20,8 +21,12 @@ If you are or want to be a tech person you should learn about `git` but since mo
 * Goto `http://localhost:30001
 * When you edit a file it'll auto reload
 
-## Working on Github directly
+?> *Important* There are significant benefits to working locally. Auto reload, seeing where files actually go and all that is excellent :D :D :D 
+
+### Directly on Github
 This is more of a PITA since 
+
+?> *Important* Working directly in the web ui is fun but you shouldn't make major changes in it. It's difficult to test that way but for minor corrections or working within the page it's great and fast. Just remember to always `fork`!
 
 ## Create a pull request
 * Go to https://github.com/tct-gaming/yaw/pulls
