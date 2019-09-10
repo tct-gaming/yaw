@@ -32,7 +32,7 @@
   * [Frames](builds/frames.md)
 
 * Misc
+  * [Contributing](misc/how-to-edit.md)
   * [Best Practices](misc/best-practices.md)
   * [About Github](misc/github.md)
-  * [How to edit](misc/how-to-edit.md)
   * [Sundries](misc/misc.md)
