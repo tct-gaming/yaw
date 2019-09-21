@@ -9,12 +9,6 @@
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
   <link rel="stylesheet" href="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.css">
 
-  <style>
-    /*.markdown-section table {
-      display: unset;
-    }*/
-  </style>
-
 </head>
 <body>
   <div id="app"></div>
@@ -36,7 +30,7 @@
       coverpage: 'cover.md',
 
       // For sidebar TOC.
-      // subMaxLevel: 6, 
+      // subMaxLevel: 1, 
 
       'page-toc': {
         tocMaxLevel: 5,
@@ -54,6 +48,15 @@
 
       // https://gbodigital.github.io/docsify-gifcontrol/#/
       // gifs: {},
+
+      plugins: [
+        function(hook, vm) {
+          hook.ready(() => { })
+          hook.doneEach(() => { })
+          hook.mounted(() => { })
+          hook.init(() => { })
+        }
+      ],
     }
 
   </script>
@@ -63,5 +66,6 @@
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
   <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
   <script src="//unpkg.com/docsify-gifcontrol/dist/docsify-gifcontrol.js"></script>
+  
 </body>
 </html>

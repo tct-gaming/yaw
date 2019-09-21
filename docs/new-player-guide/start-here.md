@@ -1,4 +1,4 @@
-![](test.png)
+<!-- ![](test.png) -->
 
 # TCTGaming New Recruit Warframe Guide
 You're new to TCT Gaming? AND you're new to Warframe? AND you dunno what to do? Where to go? How to get that sick build? Well, let me help you out a bit.
