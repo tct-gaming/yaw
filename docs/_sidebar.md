@@ -21,7 +21,7 @@
 * Farming
   * [How to](farming/how-to.md)
   * [Best Practices](farming/best-practices.md)
-
+  * [Kavat DNA Farming](farming/kavat-dna.md)
 * Builds
   * [Primary Weapons](builds/primary-weapons.md)
   * [Secondaries](builds/secondaries/readme.md)
