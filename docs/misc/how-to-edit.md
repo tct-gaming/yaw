@@ -9,7 +9,7 @@ If you are or want to be a tech person you should learn about `git` but since mo
 
 ## Where to add content
 ### Locally
-* Install node
+* Install node.js
 * Install a terminal
 * Run `npm i docsify-cli -g` in your terminal
 * Make your fork by clicking on the `fork` button
@@ -18,7 +18,7 @@ If you are or want to be a tech person you should learn about `git` but since mo
 * Clone repo
 * Run `docsify serve docs`
 * Open your browser
-* Goto `http://localhost:30001
+* Goto `http://localhost:3000
 * When you edit a file it'll auto reload
 
 ?> *Important* There are significant benefits to working locally. Auto reload, seeing where files actually go and all that is excellent :D :D :D 
