@@ -1,15 +1,24 @@
 # TCT Members
+These are the people you'll see the most often in Discord and most often in the in-game chat. Some of us are leaders, some of us are super helpful in one way or another. Never be too timid to ask for help or whatever.
 
-Han: [fill me in please]
+Han <span class="tag">PSN@Hanxa</span>
+> [fill me in please]
 
-Sithlord: [fill me in please]
+Sithlordwho <span class="tag">PSN@Phh99</span>
+> [fill me in please]
 
-Blueeyedevil: [fill me in please]
+Blueyedevil <span class="tag">PSN@blueye1979</span>
+> [fill me in please]
 
-Sunnypigtails: Chaotic Neutral. Will stab you.
+SunnyPigtails <span class="tag">PSN@SunnyPigtails</span>
+> Chaotic Neutral. Most likely recruited you and got you started.
 
-sysdmg: [fill me in please]
+Cosmic <span class="tag">PSN@CosmicStride</span>
+> _hisssssss_
 
-cosmic: [fill me in please]
+Sysdmg <span class="tag">PSN@Sysdmg</span>
+> [fill me in please]
 
-pants: [fill me in please]
+PanteonEZLN <span class="tag">PSN@PanteonEZLN</span>
+> I am here for the good times, the shits and giggles.
+> #2tacos4favor
