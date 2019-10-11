@@ -8,5 +8,5 @@
 - For vets
 - For trading info!
 
-[Newbies](new-player-guide/start-here)
+[Newbies](new-player/start-here)
 [Get to know us](misc/tct)
