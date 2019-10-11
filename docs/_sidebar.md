@@ -1,36 +1,43 @@
-<!-- _navbar.md -->
+<!-- _navbar -->
 
-* [Intro](intro.md)
+* [Intro](intro)
 
 * New Player Guide
-  * [Start Here](new-player-guide/start-here.md "Start here")
-  * [Star Chart](new-player-guide/star-chart.md "Just finish it tenno")
-  * [Damage Guide](new-player-guide/damage.md "Quality of life guide")
-  * [Platinum](new-player-guide/platinum.md "Don't buy anything to start")
-  * [Mods](new-player-guide/mods.md "How to mods")
-  * [QoL Guide](new-player-guide/qol.md "Quality of life guide")
-  <!-- * [FAQ](new-player-guide/faq.md "Quality of life guide") -->
+  * [Start Here](new-player/start-here "Start here")
+  * [Star Chart](new-player/star-chart "Just finish it tenno")
 
 * Guide
-  * Nothing yet
+  * [New user guide](guide/_intro)
+  * [Damage Guide](guide/damage "Quality of life guide")
+  * [Platinum](guide/platinum "Don't buy anything to start")
+  * [Mods](guide/mods "How to mods")
+  * ~[companions](guide/companions)~
+  * ~[items](guide/modular-items)~
+  * ~[vallis](guide/orb-vallis)~
+  * ~[eidolon](guide/plains-of-eidolon)~
+  * ~[warframes](guide/warframes)~
+  * ~[weapons](guide/weapons)~
+  * ~[QoL Guide](guide/qol "Quality of life guide")~
 
 * Farming
-  * [How to](farming/how-to.md)
-  * [Best Practices](farming/best-practices.md)
-  * [Kavat DNA Farming](farming/kavat-dna.md)
+  * [How to](farming/how-to)
+  * [Kavat DNA Farming](farming/kavat-dna)
+  * ~[Best Practices](farming/best-practices)~
 
 * Builds
-  * [Primary Weapons](builds/primary-weapons/readme.md)
-  * [Secondaries](builds/secondaries/readme.md)
-  * [Melee](builds/melee/readme.md)
-  * [Companions](builds/companions/readme.md)
-  * [Archwings](builds/archwings/readme.md)
-  * [Arch Weapons](builds/arch-weapons/readme.md)
-  * [Frames](builds/frames.md)
+  * [Primary Weapons](builds/primary-weapons/readme)
+  * [Secondaries](builds/secondaries/readme)
+  * [Melee](builds/melee/readme)
+  * [Companions](builds/companions/readme)
+  * [Archwings](builds/archwings/readme)
+  * [Arch Weapons](builds/arch-weapons/readme)
+  * [Frames](builds/frames/_index)
+
+* Galleries
+  * [Fasion Frame](gallery/fashion-frame)
+  * [Memes](gallery/memes)
 
 * Misc
-  * [TCT](misc/tct.md)
-  * [Contributing](misc/how-to-edit.md)
-  * [Best Practices](misc/best-practices.md)
-  * [About Github](misc/github.md)
-  * [Sundries](misc/misc.md)
+  * [TCT](misc/tct)
+  * [Contributing](misc/how-to-edit)
+  * ~[FAQ](misc/faq "Quality of life guide")~

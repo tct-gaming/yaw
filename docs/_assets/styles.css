@@ -796,7 +796,10 @@ section.cover blockquote>p>a:hover {
   white-space: nowrap
 }
 
-.markdown-section code,
+.markdown-section code {
+  background-color: #b3d3ef;
+}
+
 .markdown-section pre {
   background-color: #f9f9f9;
   font-family: Inconsolata

@@ -78,7 +78,7 @@ What your warframe is used for. When we say your `1` or your `4` we mean which a
 * `3` → `◯`
 * `4` → `△`
 
-# Ranking Things
+<!-- # Ranking Things
 tbd
 
 ## Warframes
@@ -88,7 +88,7 @@ tbd
 ## Mods
 ...
 ## Companions
-...
+... -->
 
 # Credits
 You'll get this in normal play but what you'll really want is `The Index`. I can take you there whenever and we'll make you a buttload of cash. **AFTER YOU'VE COMPLETED THE STAR CHART**.
