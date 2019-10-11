@@ -16,4 +16,9 @@ There are 4 beginning levels to Warframe. These are the levels you're gonna have
 
 This is what this wiki hopes to help you with on your journey.
 
+<!-- https://www.warframe.com/game/quickstart#advanced-maneuvers -->
 <!-- https://warframeguide.com/ -->
+<!-- https://www.polygon.com/guides/2017/12/1/16721024/warframe-beginners-guide -->
+<!-- https://www.rockpapershotgun.com/2019/05/08/warframe-guide-tips-and-tricks-for-beginners-2/ -->
+<!-- https://steamcommunity.com/sharedfiles/filedetails/?id=1424069013 -->
+<!-- https://steamcommunity.com/sharedfiles/filedetails/ -->
