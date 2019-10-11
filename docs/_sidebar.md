@@ -9,12 +9,7 @@
   * [Platinum](new-player-guide/platinum.md "Don't buy anything to start")
   * [Mods](new-player-guide/mods.md "How to mods")
   * [QoL Guide](new-player-guide/qol.md "Quality of life guide")
-  * [FAQ](new-player-guide/faq.md "Quality of life guide")
-
-* Get Started
-  * [About TCT](get-started/about)
-  * []()
-  * []()
+  <!-- * [FAQ](new-player-guide/faq.md "Quality of life guide") -->
 
 * Guide
   * Nothing yet
@@ -25,7 +20,7 @@
   * [Kavat DNA Farming](farming/kavat-dna.md)
 
 * Builds
-  * [Primary Weapons](builds/primary-weapons.md)
+  * [Primary Weapons](builds/primary-weapons/readme.md)
   * [Secondaries](builds/secondaries/readme.md)
   * [Melee](builds/melee/readme.md)
   * [Companions](builds/companions/readme.md)
