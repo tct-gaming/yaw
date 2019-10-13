@@ -692,13 +692,17 @@ section.cover blockquote>p>a:hover {
   padding: 0
 }
 
-.sidebar li.active {
-  background-color: #eee
+.sidebar ul li.active a {
+  /*background-color: #eee*/
 }
 
+.sidebar ul li.active ul li a {
+  /*background-color: red*/
+}
+/*
 .sidebar li.active a {
   color: #333
-}
+}*/
 
 .markdown-section h1,
 .markdown-section h2,
@@ -933,4 +937,15 @@ code .token {
   margin: 0 10px 10px 0;
   text-decoration: none;
   -webkit-transition: color 0.2s;
+}
+
+/***************************************************/
+/***************************************************/
+/********************** DETAILS ********************/
+/***************************************************/
+/***************************************************/
+details {
+  padding: 20px;
+  background-color: #ededed;
+  
 }

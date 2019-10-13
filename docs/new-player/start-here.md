@@ -6,7 +6,7 @@ You're new to TCT Gaming? AND you're new to Warframe? AND you dunno what to do? 
 # First thing's first
 Complete Star Chart & Main Quests.
 
-## [Complete the star chart](/docs/new-player/star-chart)
+## [Complete the star chart](new-player/star-chart)
 Just finish the star chart. Seriously, just finish it. We will taxi for certain things but you need to learn the mission and you'll be put in pubs so nothing will be too hard. Shouldn't take you longer than a few of weeks of lazy playing. I'd recommend bothering with story missions after the star chart (that aren't junction requirements).
 
 If any node (not junction) is giving you problems then we can taxi you through it.

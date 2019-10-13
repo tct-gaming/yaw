@@ -83,12 +83,7 @@ These are just apperance and they are funny. For instance one will grow flowers 
 ## ... Conclave
 Can't help you here I've never played `Conclave`.
 
-# Mod lifecycle
-Please fill me out.
-## When to get them
-## Where to get the important ones
-
 # Some Notes from a Grizzled Vet
 * Don't sell your duplicate mods. Dissolve them into endo
 * A lot of normie mods the clan is willing to give you
-* Transmuting is stupid. Don't do it unless it's for `Night Wave`.
+* Transmuting is stupid. Don't do it unless it's for a `Nightwave` challenge.

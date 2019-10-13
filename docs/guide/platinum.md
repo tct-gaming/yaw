@@ -8,28 +8,16 @@ More importantly you can earn plat in game by doing multiple things.
 # Earning Platinum
 We are often asked how one earns platinum. It's actually very easy and straight forward. The main price you pay is your time.
 
-## Fissues
-
-## Rivens
-
-## Mods
-
-## Weapons
-### Syndicate Weapons
-### Prisma
-### Vandal
-### Wraith
-### Dex
-### Mara
-
 # Trading
 Trading is the primary way to get plat. Any other way you're asking to get scammed.
 
 ## In clan
-Always ask the clan first. We don't have a dedicated trading channel yet but when we get bigger it's likely. So ask in `#concourse` first. The clan will be more forgiving with trades especially when the item is easier to get. Something like, say, [`Maiming Strike`](https://warframe.fandom.com/wiki/Maiming_Strike) someone will trade you but you will have to pay.
+Always ask the clan first. We have a channel called `#trade-chat` so ask in there before you go to the trade channel or warframe-market.com. Something like, say, [`Maiming Strike`](https://warframe.fandom.com/wiki/Maiming_Strike) someone will trade you but you will have to pay actual plat. That is a hard to get mod.
 
 ## Trade Chat
 Use your filters, be patient, haggle but never pay more than you should. Some prices are insane.
 
+To use a filter hit triangle in the chat to add a filter. Don't make your filter too exacting or you'll miss lots of wanted ads.
+
 ## Warframe Market
-The lazy but [most often] cheapest way to get most items.
+The lazy but [most often] cheapest way to get most items. You will have to be even more patient as people don't answer right away.
