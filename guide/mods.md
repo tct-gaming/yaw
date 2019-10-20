@@ -24,7 +24,7 @@ This refers to how much you can put into either a weapon, frame, archwing, compa
 ## Polarities
 Seeing as you can quickly drain an item of it's capacity if you add a mod to a matching polarity the drain is halved! If you don't match up then it'd **DOUBLED**.
 
-To play around with mods and builds goto [warframe-builder.com](warframe-builder.com) and check out those builds to see more of what I mean. Hands on experiance and tinkering will let you understand more than reading it here.
+To play around with mods and builds goto [warframe-builder.com](warframe-builder.com) and check out those builds to see more of what I mean. Hands on experience and tinkering will let you understand more than reading it here.
 
 For a specific build check out my [Umbral Saryn](https://tinyurl.com/yyw8qfc7). Note: Don't bother thinking you'll make this any time before finishing the star chart. 
 
@@ -64,7 +64,7 @@ These are some of your more powerful mods. For instance my Saryn build uses 3 of
 You get these from running the derelict.
 
 ## Augment Mods
-In my Saryn `Regenerative Molt` is my augment mod. It is a mod that modifies a warframe's abilities. But remember it depends on who you're playing with. If I'm playing with a Wisp or EV Trinity then I might foregoe this mod and I might have put something else in that position.
+In my Saryn `Regenerative Molt` is my augment mod. It is a mod that modifies a warframe's abilities. But remember it depends on who you're playing with. If I'm playing with a Wisp or EV Trinity then I might forego this mod and I might have put something else in that position.
 
 ## Primed Mods
 These are primed versions of existing mods. They are white and they do not drop. You need to buy them from a vender that appears once every two weeks. You'll get a message to tell you they've arrived.
@@ -76,7 +76,7 @@ Don't worry about these. But also they have crazy stats that make even normally 
 Mods that work best in a set. Umbral mods, Augur mods.
 
 ## Peculiar Mods
-These are just apperance and they are funny. For instance one will grow flowers on bullet hit on an enemy
+These are just appearance and they are funny. For instance one will grow flowers on bullet hit on an enemy
 
 ![PB](https://i.imgur.com/WyreFTb.jpg)
 

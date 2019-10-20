@@ -7,6 +7,7 @@
     * [Star Chart](new-player/star-chart "Just finish it tenno")
     * [Dos & Dounts](new-player/dos-donuts "Don't use your plat")
   * [Alerts](new-player/alerts "Do 'em all")
+  * [Dojo](new-player/dojo "Do 'em all")
   <!-- * [TCT Clan Etiquette](new-player/clan-etiquette "Do 'em all") -->
 
 * Guide

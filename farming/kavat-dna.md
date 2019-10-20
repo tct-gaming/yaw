@@ -35,7 +35,7 @@ If you have the `Synthesis Scanner` available from Cephalon Simaris, be sure to 
 * Sol-Battery Widget
 * Cross-Matrix Widget
 
-The Sol-Battery widget gives you inifinte scans and the Cross-Matrix widget allows each scan to have a potential to count as two scans. NOTE: If for some reason after several runs you fail to get any DNA using this scanner, switch to your normal one. This could possibly be a bug within the game or just really bad RNG.
+The Sol-Battery widget gives you infinite scans and the Cross-Matrix widget allows each scan to have a potential to count as two scans. NOTE: If for some reason after several runs you fail to get any DNA using this scanner, switch to your normal one. This could possibly be a bug within the game or just really bad RNG.
 
 And that's it! Good luck on your Kavat DNA farming Tenno! 
 

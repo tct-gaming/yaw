@@ -2,9 +2,9 @@
 1. Check your alerts once a week.
 2. Always do the invasions.
 
-So, I've said that the starchart should be your #1 priority and while this is still true you should still do invasions & alerts if you can. 
+So, I've said that the star chart should be your #1 priority and while this is still true you should still do invasions & alerts if you can. 
 
-There are 5 resources you can't get anywhere else [reasonably] effectivly that you'll need to build dojo items.
+There are 5 resources you can't get anywhere else [reasonably] effectively that you'll need to build dojo items.
 
 1. `Mutagen Mass`
 1. `Fieldron`

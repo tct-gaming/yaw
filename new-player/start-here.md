@@ -64,10 +64,10 @@ Lastly formas (the puzzle piece) comes into play with allowing you to change the
 # Affinity
 ## Affinity Range
 ![The 3 circles](https://i.stack.imgur.com/8llQ7.png) <br />
-Affinity is shared beteen yourself and other players if they are within the affinity range. The 3 circles in the above image
+Affinity is shared between yourself and other players if they are within the affinity range. The 3 circles in the above image
 
-* Affinity is your experiance points. Something cool when you look at your gained experiance in game (look at mission results).
-  - When Blue is your experiance that you get and you keep. It's your "base" affinity.
+* Affinity is your experience points. Something cool when you look at your gained experience in game (look at mission results).
+  - When Blue is your experience that you get and you keep. It's your "base" affinity.
   - Yellow is your extra affinity. This you can lose. 
 
 # Abilities
@@ -91,7 +91,7 @@ tbd
 ... -->
 
 # Credits
-You'll get this in normal play but what you'll really want is `The Index`. I can take you there whenever and we'll make you a buttload of cash. **AFTER YOU'VE COMPLETED THE STAR CHART**.
+You'll get this in normal play but what you'll really want is `The Index`. I can take you there whenever and we'll make you a butt load of cash. **AFTER YOU'VE COMPLETED THE STAR CHART**.
 
 # Future
 You'll want to learn about Focus, eidolon hunts, profit taker (no idea still honestly)

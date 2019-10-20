@@ -16,7 +16,7 @@ If you are or want to be a tech person you should learn about `git` but since mo
 * Make a directory somewhere
 * Go into that directory
 * Clone repo
-* Run `docsify serve docs`
+* Run `docsify serve .`
 * Open your browser
 * Goto `http://localhost:3000`
 * When you edit a file it'll auto reload
@@ -30,11 +30,11 @@ This is more of a PITA since
 
 ## Create a pull request
 * Go to https://github.com/tct-gaming/yaw/pulls
-* Click `New Pull Request`
+* Click `New Pull Requestt`
 * Click `compare across forks`
 * On the right hand side click `head repository: tct-gaming/yaw`
 * Find your forked repo and select it
   * You should be on master and I don't see why you wouldn't be on there. If you aren't then change the branch
-* If all your changes are there then click `Create pull request`
-* Explain your changes then click `Create pull request` again
+* If all your changes are there then click `Create pull requestt`
+* Explain your changes then click `Create pull requestt` again
 * So long as there are no merge conflicts you're good to go. Notify the admins in discord. We'll merge it if it's good to go.

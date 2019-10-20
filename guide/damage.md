@@ -1,6 +1,6 @@
 # Damage Guide
 
-Damage is super complicated in this game. You'll want to pick your frame for your group (if planned), and a primary, secondary, melee, archanes, amps, operator focus school.
+Damage is super complicated in this game. You'll want to pick your frame for your group (if planned), and a primary, secondary, melee, arcanes, amps, operator focus school.
 
 Damn.
 

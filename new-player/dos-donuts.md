@@ -8,17 +8,17 @@ Just plain good advice.
 	- Just finish the starchart
 	- The open world is going to wreck you.
 * Do mark rare items for everyone to see. For example:
-	- Argon Chrystals
+	- Argon crystals
 	- Tellurium
-* Have curtesy and wait for any remaining tenno to get to 10 radiant before extracting even if they take awhile
+* Have courtesy and wait for any remaining tenno to get to 10 radiant before extracting even if they take awhile
 	- Just leave the squad after if it was a hassle.
 
 ## Donuts
 * Be a fucking troll
 	- Unless you're with the clan and you've made friends
 * Make everyone wait at extracting
-* Be in a sqad and say "BRB" and then be gone for more than 2 min.
+* Be in a squad and say "BRB" and then be gone for more than 2 min.
 * Bring slow Nova to a defense.
 * Start an elevator unless every squad member is on it.
 	- unless the remaining players are very far away
-* Kill off all the enemeies in a void fissure until everyone's at 10
+* Kill off all the enemies in a void fissure until everyone's at 10
