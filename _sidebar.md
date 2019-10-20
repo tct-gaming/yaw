@@ -29,6 +29,7 @@
   * [How to](farming/how-to)
   * [Kavat DNA Farming](farming/kavat-dna)
   * ~[Best Practices](farming/best-practices)~
+  * ~[Focus Farming](farming/focus)~
   * ~Endo~
 
 * Builds
