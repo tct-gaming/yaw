@@ -38,6 +38,6 @@ We want to help those that have contributed in one way or another. You'll more t
 ## Don't use slurs
 While you can be edgy, to an extent, we will not allow hateful speech, slurs or anything of the like. We have people from all walks and you don't know who or what anyone has experienced. While we'll try to be as forgiving as possible multiple instances of the same "infraction" won't be tolerated. 
 
-Feel free to tease or be lightly edgy in discord but remember. You don't know if someone is transgender, of a certain creed, some heritage or nationality or someone's sexual preferences. Keep it cool daddio.
+Feel free to tease or be lightly edgy in discord but remember you don't know if someone is transgender, of a certain creed, some heritage or nationality or someone's sexual preferences. Keep it cool daddio.
 
 All that being said we can't stop how you talk to people via voice but one can report being uncomfortable if you do.
