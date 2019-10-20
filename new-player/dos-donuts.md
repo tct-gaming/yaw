@@ -1,5 +1,5 @@
 # Dos & Donuts
-
+Just plain good advice.
 
 ## Dos
 * Wait for the 75% or at least the 50% discounts on plat purchases before thinking about buying plat.
