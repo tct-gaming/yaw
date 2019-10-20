@@ -12,7 +12,7 @@
 
 * Guide
   * [New user guide](guide/_intro)
-  * [Damage Guide](guide/damage "Quality of life guide")
+  * [Damage Guide](guide/damage "Damage info graphic")
   * [Platinum](guide/platinum "Don't buy anything to start")
   * [Mods](guide/mods "How to mods")
   * ~[Trading](guide/trading "It's annoying for sure")~
