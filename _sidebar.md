@@ -15,12 +15,13 @@
   * [Damage Guide](guide/damage "Damage info graphic")
   * [Platinum](guide/platinum "Don't buy anything to start")
   * [Mods](guide/mods "How to mods")
+  * [Eidolon Hunting](guide/eidolon-hunt "How to mods")
   * ~[Trading](guide/trading "It's annoying for sure")~
   * ~[Focus Schools](guide/focus-schools "It's annoying for sure")~
   * ~[Companions](guide/companions)~
   * ~[Items](guide/modular-items)~
   * ~[Vallis](guide/orb-vallis)~
-  * ~[Eidolon](guide/plains-of-eidolon)~
+  * ~[Plains of Eidolon](guide/plains-of-eidolon)~
   * ~[Warframes](guide/warframes)~
   * ~[Weapons](guide/weapons)~
   * ~[QoL Guide](guide/qol "Quality of life guide")~
