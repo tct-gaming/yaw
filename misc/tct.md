@@ -5,7 +5,7 @@ Han <span class="tag">PSN@Hanxa</span>
 > [fill me in please]
 
 Sithlordwho <span class="tag">PSN@Phh99</span>
-> [fill me in please]
+> The most Gallifreyan SithLord
 
 Blueyedevil <span class="tag">PSN@blueye1979</span>
 > [fill me in please]

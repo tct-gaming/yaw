@@ -4,7 +4,8 @@
 Hi there. I'm Storm and I heard you want to do some Eidolon Hunts.​ ​I'm happy to see you Tenno wanting to join in on the Tricaps, But first lets go over some things you need to get done before you start.
 
 1. You need to complete your War Within quest to have access to your Operator Form.
-2. You need access to an Amp that is preferably not the Mote Amp the game supplies you with.
+2. You need access to an Amp that is preferably not the Mote Amp the game supplies you
+with.
 
 You cannot hope to fight Eidolons without your Operator or a decent Amp and I'll explain why.
 
@@ -33,4 +34,35 @@ Okay so, As you've heard me mention Eidolon Shields before, Taking them out is �
 Any modifiers that raise your base Critical Chance or Critical Damage will allow you to do extra damage to the Shields with your Amp. This can range from Volt's Electric Shield or to Arcane Virtuos Shadow.
 
 ### Eidolon Limb Damage
-Limbs are the second part of damage that is needed to take down an Eidolon. The window becomes immediately available right after the Shields are dropped. The different Limbs are their arms, arm-pits, and knee-joints and every one of those parts needs to be taken out. Everytime you eliminate a Limb, The Eidolon will call for help and replenish their shield. Every Eidolon's chassis is made out of an alloy armor meaning Radiation Damage + Critical Chance/Damage builds are the best way to mod your weapons.
+The Synovia (Limbs) are the second part of damage that is needed to take down an Eidolon. The window becomes immediately available right after the Shields are dropped. The different Limbs are their arms, arm-joints, and knee-joints and every one of those needs to be taken out. Every Eidolon is made out of an Alloy Armor with Robotic Health meaning Radiation Damage will do the most damage (+75% vs Alloy Armor & +25% vs Robotic) and Puncture Damage is also a good secondary damage to have (+15% vs Alloy Armor & +25% vs Robotic).
+
+## WEAPONS
+Most of you that are new will probably not have many options for Primary Weapons and that's okay. For Eidolons, You want something that yields ​**HIGH ALPHA** ​Damage. That means, The weapon has a high average of damage per shot. Sniper Rifles are a perfect example of this. You can also use Bows as well, But we are still kind of testing them out. If you don't feel comfortable with a Bow, You can always use a trusty Sniper Rifle.
+
+Here is a list of common weapons seen used for hunts:
+* Rubico Prime (SR)
+* Vectis Prime (SR)
+* Lanka (SR)
+* Daikyu (Bow)
+* Opticor (BFG)
+
+If you don't have access to any Sniper Rifle or Bow or you plain just don't feel right with what you got - My advice is to get the Opticor for your first hunt weapon until you get around to build better ones. The Opticor Blueprint can be found in the Energy Lab at the Dojo. You could also try out the Daikyu, Which is found in the Tenno Lab at the Dojo. Like I previously mentioned, Bows are possibly current meta, However not many of us have done testing ourselves, So I cannot speak on their reliability.
+
+## WARFRAMES... (DUH)
+Different Warframes bring about different contributions to the team. There are several strategies to deal with Eidolons, But for now let's just assume this is your first hunt.
+
+### Rhino
+![](./_images/rhino.jpg)
+\- Tenno: `Godslayer`
+
+He is an easy pick for for someone who is hunting for the first time. He's got a lot of armor and
+health. He's tanky. He's Rhino!
+* Good survivability
+* Cast ​`ROAR` ​during the limb damage phase to buff damage for allies and yourself
+* You can cast `​Iron Skin​` to help with taking damage and avoiding Status Procs
+* You want High Strength, Range, Duration builds with Strength and Range being your
+priority stats
+
+### Trinity
+![](./_images/trinity.jpg)
+\- Tenno: `Nerfle`
