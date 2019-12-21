@@ -12,9 +12,11 @@
 
 * Guide
   * [New user guide](guide/_intro)
+  * [Common Questions](guide/common-questions)
   * [Damage Guide](guide/damage "Damage info graphic")
   * [Platinum](guide/platinum "Don't buy anything to start")
   * [Mods](guide/mods "How to mods")
+    * [Mods to ask for](guide/mods-to-ask-for.md "How to mods")
   * [Eidolon Hunting](guide/eidolon-hunt "How to mods")
   * ~[Trading](guide/trading "It's annoying for sure")~
   * ~[Focus Schools](guide/focus-schools "It's annoying for sure")~
