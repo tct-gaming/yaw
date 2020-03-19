@@ -1,4 +1,6 @@
 # Event Types
+ * https://tinyurl.com/vxngql9
+ * https://tinyurl.com/thhj8v5
 
 TCT Gaming's [PS4] ***Warframe Clan is a community driven clan***. Meaning that everyone, even the new people, are expected to group up with each other whenever someone needs help. We actively participate in many different events, some more than others of course, and of those events these are the ones listed that we do most often (no order):
 
