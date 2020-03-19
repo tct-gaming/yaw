@@ -2,8 +2,12 @@
 
 * [Intro](intro)
 
+* TCT Clan
+  * [About us](clan/intro)
+  * [Code of Conduct](clan/code-of-conduct "Be cool yo")
+  * [Grouping Up](clan/grouping-up "Be cool yo")
+
 * New Player Guide
-  * [Code of Conduct](new-player/code-of-conduct "Do 'em all")
   * [Start Here](new-player/start-here "Start here")
     * [Star Chart](new-player/star-chart "Just finish it tenno")
     * [Dos & Dounts](new-player/dos-donuts "Don't use your plat")
