@@ -5,6 +5,7 @@
 * TCT Clan
   * [About us](clan/intro)
   * [Code of Conduct](clan/code-of-conduct "Be cool yo")
+  * [Purges](clan/purges "Be cool yo")
   * [Grouping Up](clan/grouping-up "Be cool yo")
 
 * New Player Guide
