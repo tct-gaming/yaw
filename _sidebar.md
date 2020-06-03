@@ -14,6 +14,7 @@
     * [Dos & Dounts](new-player/dos-donuts "Don't use your plat")
   * [Alerts](new-player/alerts "Do 'em all")
   * [Dojo](new-player/dojo "Do 'em all")
+  * [Redeem these codes](new-player/codes "Redeem(er) 'em all")
 
 * Guide
   * [New user guide](guide/_intro)
